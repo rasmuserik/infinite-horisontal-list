@@ -14,5 +14,10 @@
   "repository": "github:solsort/infinite-horisontal-list",
   "version": "0.0.1",
   "homepage": "http://infinite-horisontal-list.solsort.com",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "recom": "^0.0.6"
+  }
 }
