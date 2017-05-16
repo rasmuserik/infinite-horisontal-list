@@ -1,0 +1,18 @@
+{
+  "name": "infinite-horisontal-list",
+  "scripts": {
+    "release": "simple-javascript release",
+    "dev": "simple-javascript dev",
+    "test": "simple-javascript test"
+  },
+  "devDependencies": {
+    "simple-javascript": "*"
+  },
+  "license": "MIT",
+  "main": "lib.js",
+  "unpkg": "dist.js",
+  "repository": "github:solsort/infinite-horisontal-list",
+  "version": "0.0.1",
+  "homepage": "http://infinite-horisontal-list.solsort.com",
+  "description": ""
+}
